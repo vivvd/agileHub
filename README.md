@@ -12,8 +12,7 @@
 
 ### agile-hub-mu.vercel.app
 
-Анализы онлайн-ресурсов: 
-https://drive.google.com/drive/folders/1OVRMJtKwbj5tPGSwLhgm-r890QRDnxDF?usp=sharing 
+Анализы онлайн-ресурсов: https://drive.google.com/drive/folders/1OVRMJtKwbj5tPGSwLhgm-r890QRDnxDF?usp=sharing 
 
 Telegram: https://t.me/+XzWsjC4wAppjMjli
 
@@ -22,4 +21,4 @@ Telegram: https://t.me/+XzWsjC4wAppjMjli
 Требования к продукту (Задание 4): 
 https://docs.google.com/spreadsheets/d/17wPG8EY8KYTWUekIEcAo2yGZ43xB2tCmBv9cL_YLxUk/edit?usp=sharing 
 
-Бэклог:
+Бэклог: https://docs.google.com/spreadsheets/d/1IpMKNqrhyoFwmiP8CnyGJv7DhJ2gH0wxc72LbAcrgso/edit?usp=sharing
