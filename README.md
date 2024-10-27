@@ -12,6 +12,9 @@
 
 ### agile-hub-mu.vercel.app
 
+Анализы онлайн-ресурсов: 
+https://drive.google.com/drive/folders/1OVRMJtKwbj5tPGSwLhgm-r890QRDnxDF?usp=sharing 
+
 Telegram: https://t.me/+XzWsjC4wAppjMjli
 
 УТП продукта: https://docs.google.com/document/d/16VXHutL3U21u5_Cet9hY-W8GxV-baWITVv3ccNxyzBA/edit?usp=sharing
